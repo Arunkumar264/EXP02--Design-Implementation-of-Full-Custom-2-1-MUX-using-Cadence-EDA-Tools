@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![image](https://github.com/user-attachments/assets/2a1dda28-5475-4b61-9b59-e189242b447d)
+
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![image](https://github.com/user-attachments/assets/f5346044-a988-4e3a-b7c6-b0bb6cfe845f)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![image](https://github.com/user-attachments/assets/69e65221-b404-4140-b662-4501e8ee9370)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,15 +89,19 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+![image](https://github.com/user-attachments/assets/3b738f79-c237-430c-ac6b-8ee7f8898d99)
+
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
-
- ![image[](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+![image](https://github.com/user-attachments/assets/4b51eefe-70f3-4db0-9493-ee7970b59fac)
 
 
-](https://github.com/user-attachments/assets/4e620bfa-e8d5-4055-aa6f-d57170c4db42)
+![image](https://github.com/user-attachments/assets/a24647ea-77f8-40c7-add0-f119f63144c1)
+
+
+
+
+
  
 
 Results:
